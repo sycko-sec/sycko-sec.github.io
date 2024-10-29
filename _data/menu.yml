@@ -31,7 +31,7 @@ entries:
   - title: notes
     entries:
       - title: helpful notes for penetrating
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
+        notes_list:
+        limit: 3
+        show_more_text: See notes...
+        show_more_url: notes.html
