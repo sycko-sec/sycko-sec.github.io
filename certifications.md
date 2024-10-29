@@ -1,4 +1,3 @@
-# Certifications
 
 ## Practical Junior Penetration Tester
 
