@@ -45,6 +45,14 @@ li { margin: 0.4rem 0; }
 
 *:target { background: yellow; }
 
+a:link{
+  color: rgb(142, 37, 173);
+}
+
+a:visited{
+  color: rgb(142, 37, 173);
+}
+
 .w {
   max-width: 640px;
   margin: 0 auto;
