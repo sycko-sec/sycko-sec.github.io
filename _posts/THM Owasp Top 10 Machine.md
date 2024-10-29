@@ -1,3 +1,8 @@
+---
+layout: post
+category: writeups
+---
+
 # THM Owasp Top 10 Machine
 
 As I start the module, a prompt alerts me to the machine’s vulnerability and points out that all the information I need for exploitation is available online. Having just covered the OWASP Top 10 vulnerabilities, like Cross-Site Scripting, SQL Injection, and Remote Code Execution, I have a solid foundation for the task. I begin by running an Nmap scan to identify the machine's active services.
