@@ -1,7 +1,6 @@
 ---
 layout: post
 category: writeups
-title: THM Owasp Top 10 Machine
 ---
 
 # THM Owasp Top 10 Machine
