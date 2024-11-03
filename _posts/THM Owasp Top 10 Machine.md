@@ -1,13 +1,13 @@
 ---
 layout: post
-category: writeups
+category: example
 ---
 
 # THM Owasp Top 10 Machine
 
 As I start the module, a prompt alerts me to the machine’s vulnerability and points out that all the information I need for exploitation is available online. Having just covered the OWASP Top 10 vulnerabilities, like Cross-Site Scripting, SQL Injection, and Remote Code Execution, I have a solid foundation for the task. I begin by running an Nmap scan to identify the machine's active services.
 
-![Untitled](assets/images/owasp2.ong)
+![Untitled](assets/images/owasp2.png)
 
 The scan reveals nothing unusual—just SSH and an Apache-hosted website. I visit the website to explore further and notice it’s built with PHP and MySQL. Recalling from earlier in the module that many known exploits are listed on [Exploit-DB](https://www.exploit-db.com/), I search for "bookstore exploit-db" in Firefox, which brings up several relevant Exploit-DB links.
 
