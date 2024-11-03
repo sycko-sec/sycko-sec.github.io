@@ -1,6 +1,6 @@
 ---
 layout: post
-category: example
+category: writeups
 ---
 
 # THM Owasp Top 10 Machine

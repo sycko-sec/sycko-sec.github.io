@@ -23,6 +23,7 @@ entries:
 
   - title: writeups
     post_list:
+      limit: 5
       category: writeups
       show_more: true
       show_more_text: See more posts...
