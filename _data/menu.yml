@@ -14,12 +14,12 @@ entries:
       - title: Certifications
         url: certifications
 
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive
+#  - title: all posts
+#    post_list:
+#      limit: 5
+#      show_more: true
+#      show_more_text: See archive...
+#      show_more_url: archive
 
   - title: writeups
     post_list:
