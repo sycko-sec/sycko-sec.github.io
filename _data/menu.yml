@@ -37,6 +37,5 @@ entries:
         show_more_text: See notes...
         show_more_url: notes.html
 
-  - title: akuma
-    entries: 
-      ![akuma](assets/images/akuma-winpose.gif)
+  - item: |
+    ![](assets/images/akuma_winpose.gif)
