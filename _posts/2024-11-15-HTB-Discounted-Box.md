@@ -1,4 +1,9 @@
-# HTB Discounted
+---
+layout: post
+category: writeups
+title: HTB Discounted Box
+---
+
 
 The Hack The Box challenge **"Discounted"** turned out to be a really fun and tricky Burp Suite exercise. I started by booting up the machine and running a quick Nmap scan to see what services were open. The scan showed an HTTP server, so I decided to check out the webpage.
 
